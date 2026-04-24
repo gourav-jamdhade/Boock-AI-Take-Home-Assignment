@@ -1,0 +1,74 @@
+[
+  {
+    "id": "book_001",
+    "title": "The Silent Planet",
+    "author": "Elara Vance",
+    "coverUrl": null,
+    "summary": "A thrilling journey to an exoplanet that absorbs all sound, hiding a dark secret beneath its crust.",
+    "content": "Chapter 1: The Descent\n\nThe drop pod rattled violently. Outside the viewport, the atmosphere of Silence-9 was a swirling vortex of deep violet clouds. \n\nCommander Vance gripped the harness, her knuckles turning white. The telemetry data on the console was flashing red, indicating a massive pressure spike. \"Brace for impact!\" she yelled over the comms, though she knew the inertial dampeners were already failing. \n\nWhen they hit, the world went dark. \n\nShe awoke to a strange, heavy silence. It wasn't just the absence of the ship's hum; it was as if the air itself was actively suppressing sound. She unbuckled and fell to the grated floor. Her boots made no noise as she stood. \n\nLooking out the cracked viewport, she saw a landscape of jagged, crystalline formations stretching to the horizon. The sky was an impossible shade of green. She tapped her comms. \"Base, this is Vance. Do you copy?\" \n\nNothing. Not even static. \n\nShe grabbed her survival pack and forced the airlock open. The atmosphere was breathable, according to the sensors, but it felt thick, like breathing underwater. As she stepped onto the alien soil, she realized the true nature of Silence-9. It wasn't that sound couldn't travel here. It was that the planet was listening. \n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n\nSed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "book_002",
+    "title": "Echoes of the Ancients",
+    "author": "Marcus Thorne",
+    "coverUrl": null,
+    "summary": "An archaeologist discovers a ruin that predates human civilization by a million years.",
+    "content": "Chapter 1: The Discovery\n\nThe dust of the Martian desert clung to everything. Dr. Aris wiped his visor, staring at the perfectly smooth obsidian monolith. It didn't belong here. Nothing about it made sense. \n\nCarbon dating of the surrounding strata suggested it had been buried for at least a million years. Yet, it looked as though it had been polished yesterday. \n\n\"Get the spectrometer,\" Aris said, his voice trembling slightly over the local channel. \n\nHis assistant, a young grad student named Elian, hurried over, clumsily navigating the rocky terrain in his bulky suit. He aimed the device at the monolith. The screen flickered, then spat out a string of errors. \n\n\"It's not reading, Doctor. It's like... it's absorbing the laser.\" \n\nAris stepped closer, extending a gloved hand. As his fingers brushed the surface, a sudden jolt of electricity surged through his suit. His HUD glitched, displaying strange, geometric symbols before returning to normal. \n\n\"Did you see that?\" \n\n\"See what?\" Elian asked, confused. \n\nAris didn't answer. The symbols were burned into his retinas. They weren't just random shapes; they were a map. And he knew exactly where it was pointing. \n\nCurabitur pretium tincidunt lacus. Nulla gravida orci a odio. Nullam varius, turpis et commodo pharetra, est eros bibendum elit, nec luctus magna felis sollicitudin mauris. Integer in mauris eu nibh euismod gravida. Duis ac tellus et risus vulputate vehicula. Donec lobortis risus a elit. Etiam aliquet massa et lorem. Mauris dapibus lacus auctor risus. Aenean tempor ullamcorper leo. Vivamus sed magna quis ligula eleifend adipiscing. Duis ante orci, molestie vitae vehicula venenatis, tincidunt ac pede."
+  },
+  {
+    "id": "book_003",
+    "title": "Digital Phantoms",
+    "author": "Kira Naberius",
+    "coverUrl": null,
+    "summary": "In a world where memories can be downloaded, a detective hunts a killer who hacks the mind.",
+    "content": "Chapter 1: Glitch\n\nRain slammed against the neon-lit pavement of Sector 4. Detective Vance adjusted his neural-link, wincing as a spike of static hit his temporal lobe. The victim was slumped in the alleyway, their personal memory drive forcibly extracted. A messy job. \n\nVance knelt, scanning the residual data trail. It was fragmented, corrupted. The killer hadn't just stolen the memories; they had overwritten them with something else. Something dark. \n\n\"Forensics got anything?\" he muttered into his collar mic. \n\n\"Negative, boss,\" came the reply. \"The local nodes were wiped clean ten minutes before the murder. This guy is a ghost.\" \n\nVance stood, the rain washing the blood down the drain. He had seen this MO before, three years ago. The media called him the Mind Taker. They thought he was dead. They were wrong. \n\nPellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci. Aenean nec lorem. In porttitor. Donec laoreet nonummy augue. Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy. Fusce aliquet pede non pede. Suspendisse dapibus lorem pellentesque magna. Integer nulla. Donec blandit feugiat ligula."
+  },
+  {
+    "id": "book_004",
+    "title": "The Last Barista",
+    "author": "Samir Patel",
+    "coverUrl": null,
+    "summary": "A cozy sci-fi tale about the last human making real coffee on a space station run by androids.",
+    "content": "Chapter 1: The Grind\n\nUnit 7B whirred as it approached the counter. 'One espresso, please. With an error margin of zero.' Samir sighed, reaching for the tamper. The station was cold, but the espresso machine was the one warm thing left in the sector."
+  },
+  {
+    "id": "book_004",
+    "title": "The Last Barista",
+    "author": "Samir Patel",
+    "coverUrl": null,
+    "summary": "A cozy sci-fi tale about the last human making real coffee on a space station run by androids.",
+    "content": "Chapter 1: The Grind\n\nUnit 7B whirred as it approached the counter. 'One espresso, please. With an error margin of zero.' Samir sighed, reaching for the tamper..."
+  },
+  {
+    "id": "book_005",
+    "title": "Leviathan's Wake",
+    "author": "Anya Rostova",
+    "coverUrl": null,
+    "summary": "A submarine crew encounters a biological anomaly at the bottom of the Mariana Trench.",
+    "content": "Chapter 1: Pressure\n\nAt 10,000 meters down, the ocean is a suffocating void. The sonar pinged, a lonely sound in the dark. Then, something pinged back..."
+  },
+  {
+    "id": "book_006",
+    "title": "Crown of Glass",
+    "author": "Julian Mercer",
+    "coverUrl": null,
+    "summary": "A political fantasy thriller where the throne is made of fragile, cursed glass.",
+    "content": "Chapter 1: The Shattering\n\nThe King was dead. And the throne room floor was covered in fragments of what used to be the crown..."
+  },
+  {
+    "id": "book_007",
+    "title": "Neon Horizons",
+    "author": "Lin Wei",
+    "coverUrl": null,
+    "summary": "A street racer gets tangled in a corporate conspiracy in a sprawling cyberpunk metropolis.",
+    "content": "Chapter 1: Redline\n\nThe engine screamed, hitting 14,000 RPM. Out the window, the city was just a blur of neon and rain..."
+  },
+  {
+    "id": "book_008",
+    "title": "The Quantum Paradox",
+    "author": "Dr. Elias Vance",
+    "coverUrl": null,
+    "summary": "A brilliant physicist accidentally creates a loop in time, and must stop his past self.",
+    "content": "Chapter 1: Time Zero\n\nThe chronometer flashed 00:00:00. Then, impossibly, it ticked backward. Elias dropped his coffee mug. It shattered, then reassembled itself..."
+  }
+]
